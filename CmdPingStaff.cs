@@ -1,5 +1,4 @@
-// This Command Was Made By: Ninja_King. Helped by SpicyCombo
-// Please Edit Lines 24,25,26, 27, 28, and 29. Change all Ingame Username To [Ingame Staff Username]
+// Please Edit Lines 26,27,28, 29, 30, and 31. Change all Ingame Username To [Ingame Staff Username]. change all Discord User ID to [@id]
 // Notice: You will Need to add the discrodbroadcast Cmd before being able to use this Command
 // █▀▀ █▀█ █▀▀ ▄▀█ ▀█▀ █▀█ █▀█ ▀
 // █▄▄ █▀▄ ██▄ █▀█ ░█░ █▄█ █▀▄ ▄
