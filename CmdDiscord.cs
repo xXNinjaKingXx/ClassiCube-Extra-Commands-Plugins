@@ -27,7 +27,7 @@ namespace MCGalaxy
 		}
 		public override void Help(Player p)
 		{
-		p.Message("%aGives Link To Discord Server.");
+		p.Message("%eGives Link To Discord Server.");
 		}
 	}
 }
