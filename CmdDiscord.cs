@@ -23,11 +23,11 @@ namespace MCGalaxy
 		public override void Use(Player p, string message, CommandData data)
 		{
 		p.Message("%lHere is the link to the Discord Server:");
-    		p.Message("Put Discord Invite Link Here");
+    		p.Message("Put discord invite link here");
 		}
 		public override void Help(Player p)
 		{
-		p.Message("%eGives Link To Discord Server.");
+		p.Message("&SShows the link to discord server.");
 		}
 	}
 }
