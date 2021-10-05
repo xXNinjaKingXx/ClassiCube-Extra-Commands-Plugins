@@ -1,5 +1,8 @@
 # **Welcome to ClassiCube-Extra-Commands-Plugins README.md**
 
 ____________________________________________________________________
-**1.)** To Use CmdPingStaff.cs Please add this Plugin to Your Server https://github.com/SpicyCombo/MCGalaxy-Things/blob/main/DiscordChat.cs
+#**1.)**CmdPingStaff.cs is currently being remade**
 # **Thank you For Visiting My Page!**
+
+#CmdStaff.cs has been remade.
+#**To use CmdStaff.cs you will need to have these three commands "CmdS1.cs, CmdS2.cs, CmdS3.cs**
