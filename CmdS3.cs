@@ -22,7 +22,7 @@ namespace MCGalaxy
 {
     public sealed class CmAdmins : Command2
     {
-        public override string name { get { return "S3"; } }
+        public override string name { get { return "S1"; } }
         public override string type { get { return "other"; } }
         public override LevelPermission defaultRank { get { return LevelPermission.Guest; } }
 
