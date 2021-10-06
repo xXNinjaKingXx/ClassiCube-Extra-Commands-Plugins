@@ -1,0 +1,5 @@
+*Use %x/faq%S to see the crafting guide.
+*Join Our Discord Server %xhttps://discord.gg/7QdKshun92
+*Don't Know How To Craft? Click This Link To See The Crafting Guide! %xhttps://dl.dropboxusercontent.com/s/t3p8e9z4jh27z9g/CraftingMap.png
+%mNotice: All Worlds Will Reset Every First Day Of Every Month Starting Jan 1 2022. Player Inventory Will Be Kept.
+%mNext World Reset: Jan 1.

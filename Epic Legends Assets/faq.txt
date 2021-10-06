@@ -1,0 +1,34 @@
+%h==============================================================
+%bQuestion:
+%lHelp, how do I craft?
+%9--------------------------------------------------------------
+%bAnswer:
+%lhttps://dl.dropboxusercontent.com/s/t3p8e9z4jh27z9g/CraftingMap.png
+%h==============================================================
+%bQuestion:
+%lHelp, how do i get coins?
+%9--------------------------------------------------------------
+%bAnswer:
+%lEvery weekend there will be a tournmant held on "%]Epic Legends [Freebuild, Realms, And More]%l".
+First Place winner will get %61000 %lCoins.
+Second Place winner will get %6600 %lCoins.
+Third Place winner will get %6200 %lCoins.
+%h==============================================================
+%bQuestion:
+%lHelp, how do i get staff rank?
+%9--------------------------------------------------------------
+%bAnswer:
+%lYou can sign up for staff on our forums.
+%alink: %x$forums
+%h==============================================================
+%bQuestion:
+%lHelp, i cant build.
+%9--------------------------------------------------------------
+%bAnswer:
+%lYou are not allowed to build in %b0,0 %lyou have options to go to another world by going to border of map and it will tp you to next world.
+%h==============================================================
+%cScroll Up To Read From Beginning.
+%bAny Other Question Contact Staff Via Discord Or In-Game.
+%cStaff Have A %f"┬" %cNext To There Name.
+%h==============================================================
+
