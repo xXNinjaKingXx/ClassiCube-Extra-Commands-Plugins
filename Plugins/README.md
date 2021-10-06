@@ -1,4 +1,4 @@
-# Welcome to my repository for MCGalaxy tools!
+# Welcome to my repository for MCGalaxy Plugins!
 Here you will find the source of my public plugins and commands, free to use however you please.
 
 
