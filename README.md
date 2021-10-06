@@ -1,8 +1,11 @@
 # Welcome to ClassiCube-Extra-Commands-Plugins README.md
 
-____________________________________________________________________
-# 1) CmdPingStaff.cs is currently being remade
-# 2) Thank you For Visiting My Page!
-# 3) CmdStaff.cs has been remade just waiting to be tested.
-____________________________________________________________________
+### Commands
+| Name | Description |
+| ------------- | -----|
+|  **CmdDiscord** | Shows the discord invite link.
+|  **CmdS1** | Makes your ping significantly lower.
+|  **CmdSecret** | sends a message when someone tries to repeat Cmdreward.
+|  **CmdStaff** | Shows Current list of staff.
+| ------------- | -----|
 # **Will make more cmds/plugins soon.**
