@@ -1,6 +1,5 @@
 # **Welcome to my repository for MCGalaxy Commands!**
 
-### Commands
 # List
 
 | Name | Description |
