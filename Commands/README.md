@@ -1,6 +1,8 @@
-# Welcome to ClassiCube-Extra-Commands-Plugins README.md
+# **Welcome to my repository for MCGalaxy Commands!**
 
 ### Commands
+# List
+
 | Name | Description |
 | ------------- | -----|
 |  **CmdDiscord** | Shows the discord invite link.
