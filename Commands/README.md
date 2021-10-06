@@ -5,9 +5,9 @@
 
 | Name | Description |
 | ------------- | -----|
-|  **CmdDiscord** | Shows the discord invite link.
-|  **CmdS1** | Makes your ping significantly lower.
-|  **CmdSecret** | sends a message when someone tries to repeat Cmdreward.
-|  **CmdStaff** | Shows Current list of staff.
+|  **[CmdDiscord](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdDiscord.cs)** | Shows the discord invite link.
+|  **[CmdS1](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdS1.cs)** | Makes your ping significantly lower.
+|  **[CmdSecret](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdSecret.cs)** | sends a message when someone tries to repeat Cmdreward.
+|  **[CmdStaff](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdStaff.cs)** | Shows Current list of staff.
 _______________________________________________________
 # **Will make more commands soon.**
