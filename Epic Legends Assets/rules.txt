@@ -1,0 +1,13 @@
+%9Hello! Welcome to $server!
+%h====================================================
+%lRules
+%[----------------------------------------------------
+%a1)%lNo Griefing Spawn.
+%a2)%lNo Killing Others Using Sand Just Wait TIll Pvp Gets Added on.
+%a3)%lDo Not Grief Other Players Wheat shoots It Results To Auto Ban.
+%a4)%lNo Racism Or Any Type Of Hate Towards Other Players.
+%a5)%lDo Not Disrispect Staff It Results To Auto Mute.
+%[----------------------------------------------------
+%lThese Are The Rules Follow Them If Not Face The Concequences.
+%h====================================================
+%9Thank You For Reading The Rules Enjoy Your Stay!
