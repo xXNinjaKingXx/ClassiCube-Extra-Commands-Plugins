@@ -1,5 +1,6 @@
 # **Welcome to my repository for MCGalaxy Commands!**
-
+**Feel free to use these commands however you choose just don't say you made them yourself.**
+# 😃
 # List
 
 | Name | Description |
@@ -9,4 +10,4 @@
 |  **CmdSecret** | sends a message when someone tries to repeat Cmdreward.
 |  **CmdStaff** | Shows Current list of staff.
 _______________________________________________________
-# **Will make more cmds/plugins soon.**
+# **Will make more commands soon.**
