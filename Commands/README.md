@@ -1,6 +1,6 @@
 # **Welcome to my repository for MCGalaxy Commands!**
 **Feel free to use these commands however you choose just don't say you made them yourself.**
-# 😃
+
 # List
 
 | Name | Description |
