@@ -13,7 +13,7 @@ ___________________________________________________________________________
 |  **[Staff.cs](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Plugins/Staff.cs)** | Shows list of current staff members on a server.
 
 ___________________________________________________________________________
-# **Instructions for Staff Plugin**
+# **Instructions for [Staff Plugin](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Plugins/Staff.cs)**
 
 **Step 1:** Open your server files and go to the text folder.
 
