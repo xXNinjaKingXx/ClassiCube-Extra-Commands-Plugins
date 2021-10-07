@@ -14,9 +14,13 @@ ___________________________________________________________________________
 
 ___________________________________________________________________________
 # **Instructions for Staff Plugin**
+
 **Step 1:** Open your server files and go to the text folder.
+
 **Step 2:** Once you open the text folder create 3 new file's.
+
 **Step 3:** Name the first file "[putranknamehere].txt", name the second file "[putranknamehere].txt", name the last file "[putranknamehere].txt"
+
 **Notice:** You can name the files to a specific rank name but keep in mind there can only be one file per rank and you have to replace "[ranknamehere] (including the code also) with the rank you want it to show
 ___________________________________________________________________________
 # **Will make more plugins soon.**
