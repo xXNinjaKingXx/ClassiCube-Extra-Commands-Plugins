@@ -1,6 +1,8 @@
 # **Welcome to my repository for MCGalaxy Commands!**
 **Feel free to use these commands however you choose just don't say you made them yourself.**
 
+**Please know that no one has the right to claim my work as there own.**
+
 **You can click on the Name to go to the source file.**
 
 # List
