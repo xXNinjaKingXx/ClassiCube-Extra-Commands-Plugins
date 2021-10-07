@@ -36,6 +36,6 @@ ___________________________________________________________________________
 ## And you're done, enjoy your plugin!
 ___________________________________________________________________________
 
-### If you are having trouble installing the plugin feel free to DM me on discord **Ninja_King#5108** or ingame "/Send Ninja_King [Message]" I will most likely be on New Blood ZS.
+If you are having trouble installing the plugin feel free to DM me on discord **Ninja_King#5108** or ingame "/Send Ninja_King [Message]" I will most likely be on New Blood ZS.
 ___________________________________________________________________________
 # **Will make more plugins soon.**
