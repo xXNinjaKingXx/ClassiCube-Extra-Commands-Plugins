@@ -23,4 +23,13 @@ ___________________________________________________________________________
 
 **Notice:** You can name the files to a specific rank name but keep in mind there can only be one file per rank and you have to replace "[ranknamehere] (including the code also) with the rank you want it to show
 ___________________________________________________________________________
+
+# Installation
+
+### How to install plugins:
+**Step 1:** Put the plugin's .cs file into the **./plugins/** folder. If it's not there, make a new folder and put it in there.
+**Step 2:** Either in-game or via the server console, type **/pcompile [plugin name]**. It should say **Plugin compiled successfully.**, if it doesn't, make an issue [here](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/issues).
+**Step 3:** Now type **/pload [plugin name]**. It should say **Plugin loaded successfully.**
+**Step 4:** And you're done, enjoy your plugin.
+___________________________________________________________________________
 # **Will make more plugins soon.**
