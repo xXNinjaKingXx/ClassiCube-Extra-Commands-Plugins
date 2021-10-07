@@ -1,5 +1,5 @@
 # Welcome to my repository for MCGalaxy Plugins!
-###Here you will find the source of my public plugins, free to use however you please.
+### Here you will find the source of my public plugins, free to use however you please.
 
 ### **Please know that no one has the right to claim my work as there own.**
 
