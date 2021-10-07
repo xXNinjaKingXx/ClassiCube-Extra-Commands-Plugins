@@ -20,15 +20,19 @@ using System.IO;
 namespace McGalaxy {
     public class Staff : Plugin {  
         public override string creator { get { return "Ninja_King"; } }
-        public override string MCGalaxy_Version { get { return "1.9.3.4"; } }
+        public override string MCGalaxy_Version { get { return "1.9.3.0"; } }
         public override string name { get { return "Staff"; } }
 
         public override void Load(bool startup) {
-            Command.Register(new CmdSomething());
+            Command.Register(new CmdS1());
+            Command.Register(new CmdS2());
+            Command.Register(new CmdS3());
         }
         
         public override void Unload(bool shutdown) {
-        	Command.Unregister(Command.Find("Something"));
+        	Command.Unregister(Command.Find("S1"));
+            Command.Unregister(Command.Find("S2"));
+            Command.Unregister(Command.Find("S3"));
         }
     }
     
