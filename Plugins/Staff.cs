@@ -1,4 +1,6 @@
 //This is a simple vertion of /Staff i think this is way better then my other creation but ill still keep that public for the time being.
+//Notice: you can edit this only to replace the rank names 
+//if there are issues feel free to report an issue here: https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/issues
 
 // █▀▀ █▀█ █▀▀ ▄▀█ ▀█▀ █▀█ █▀█ ▀
 // █▄▄ █▀▄ ██▄ █▀█ ░█░ █▄█ █▀▄ ▄
