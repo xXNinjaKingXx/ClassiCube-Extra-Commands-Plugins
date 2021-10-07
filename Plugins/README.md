@@ -1,7 +1,7 @@
 # Welcome to my repository for MCGalaxy Plugins!
-Here you will find the source of my public plugins, free to use however you please.
+###Here you will find the source of my public plugins, free to use however you please.
 
-**Please know that no one has the right to claim my work as there own.**
+### **Please know that no one has the right to claim my work as there own.**
 
 **You can click on the Name to go to the source file.**
 
@@ -31,5 +31,8 @@ ___________________________________________________________________________
 **Step 2:** Either in-game or via the server console, type **/pcompile [plugin name]**. It should say **Plugin compiled successfully.**, if it doesn't, make an issue [here](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/issues).
 **Step 3:** Now type **/pload [plugin name]**. It should say **Plugin loaded successfully.**
 **Step 4:** And you're done, enjoy your plugin.
+___________________________________________________________________________
+
+### If you are having trouble installing the plugin feel free to DM me on discord **Ninja_King#5108** or ingame "/Send Ninja_King [Message]" I will most likely be on New Blood ZS.
 ___________________________________________________________________________
 # **Will make more plugins soon.**
