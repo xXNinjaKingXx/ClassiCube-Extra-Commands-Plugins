@@ -1,3 +1,13 @@
+// █▀▀ █▀█ █▀▀ ▄▀█ ▀█▀ █▀█ █▀█ ▀
+// █▄▄ █▀▄ ██▄ █▀█ ░█░ █▄█ █▀▄ ▄
+
+
+// ███╗░░██╗██╗███╗░░██╗░░░░░██╗░█████╗║
+// ████╗░██║██║████╗░██║░░░░░██║██╔══██║
+// ██╔██╗██║██║██╔██╗██║░░░░░██║███████║
+// ██║╚████║██║██║╚████║██╗░░██║██╔══██║
+// ██║░╚███║██║██║░╚███║╚█████╔╝██║░░██║
+
 using System;
 using System.Threading;
 
@@ -12,30 +22,25 @@ namespace McGalaxy {
         public override string MCGalaxy_Version { get { return "1.9.3.0"; } }
         public override string name { get { return "Welcome"; } }
 
-    public override void HookEventHandlers() {
-        	OnPlayerConnectEvent.Register(HandlePlayerConnect, Priority.High);
-            OnJoinedLevelEvent.Register(HandleJoinedLevel, Priority.High);
-        	base.HookEventHandlers();
+        public override void Load(bool startup) {
+            // Register events using handlers. OnPlayerConnectEvent -> HandlePlayerConnect for example
+            // Every event needs a handler, you can name it whatever you like but ideally Handle[event name here] is best.
+            OnPlayerConnectEvent.Register(HandlePlayerConnect, Priority.High);
         }
-
-    public override void HookEventHandlers() {
-        	OnPlayerConnectEvent.Unregister(HandlePlayerConnect, Priority.High);
-            OnJoinedLevelEvent.Unregister(HandleJoinedLevel, Priority.High);
-        	base.UnhookEventHandlers();
-        }
-    }
-    
-    public class CmdSomething : Command2 {
-        public override string name { get { return "Welcome"; } }
-        public override string type { get { return "Other"; } }
-        public override LevelPermission defaultRank { get { return LevelPermission.Guest; } }
         
-        public override void Use(Player p, string message) {
-            p.SendCpeMessage(CpeMessageType.Announcement, "%bType in chat %a/faq %band %a/rules %bto get started");
+        public override void Unload(bool shutdown) {
+            // Unregister event(s)
+        }
+    
+        // Player connect event handler
+        void HandlePlayerConnect(Player p) {
+            // Better to not use a command for this
             p.SendCpeMessage(CpeMessageType.BigAnnouncement, "%b♦ %iWelcome to $server $skin %b♦");
+            p.SendCpeMessage(CpeMessageType.SmallAnnouncement, "%bType in chat %a/faq %band %a/rules %bto get started");
         }
 
-        public override void Help(Player p) {
+         public override void Help(Player p) {
+            p.Message("%TAnnounces Welcome Message When Player Joins.");
         }
     }
 }
