@@ -9,17 +9,17 @@ namespace Core {
         public override string creator { get { return "Nin"; } }
         public override string MCGalaxy_Version { get { return "1.9.3.0"; } }
         public override string name { get { return "Welcome"; } }
-        
-        public static bool AutoWelcome = true;
 
-public override void Load(bool startup) {
-        	if (AutoWelcome) OnPlayerConnectEvent.Register(HandlePlayerConnect, Priority.High);
-        	else Command.Register(new CmdWelcome());
+    protected override void HookEventHandlers() {
+        	OnPlayerConnectEvent.Register(HandlePlayerConnect, Priority.High);
+            OnJoinedLevelEvent.Register(HandleJoinedLevel, Priority.High);
+        	base.HookEventHandlers();
         }
 
-        public override void Unload(bool shutdown) {
-        	if (AutoWelcome) OnPlayerConnectEvent.Unregister(HandlePlayerConnect);
-        	else Command.Unregister(Command.Find("Welcome"));
+    protected override void HookEventHandlers() {
+        	OnPlayerConnectEvent.Unregister(HandlePlayerConnect, Priority.High);
+            OnJoinedLevelEvent.Unregister(HandleJoinedLevel, Priority.High);
+        	base.UnhookEventHandlers();
         }
     }
     
