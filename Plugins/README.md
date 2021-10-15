@@ -11,8 +11,7 @@ ___________________________________________________________________________
 | Name | Description |
 | ------------- | -----|
 |  **[Staff.cs](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Plugins/Staff.cs)** | Shows list of current staff members on a server.
-
-# [Staff is currently being remade]
+|  **[Welcome.cs](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Plugins/Welcome.cs)** | Announces a welcome message on player join.
 ___________________________________________________________________________
 # **Instructions for [Staff Plugin](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Plugins/Staff.cs)**
 
