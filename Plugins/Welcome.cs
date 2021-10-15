@@ -3,7 +3,8 @@ using System.Threading;
 
 using MCGalaxy;
 using MCGalaxy.Tasks;
-using McGalaxy.Events.PlayerEvents;
+using MCGalaxy.Events;
+using MCGalaxy.Events.PlayerEvents;
 
 namespace McGalaxy {
     public class Welcome : Plugin {  
@@ -11,13 +12,13 @@ namespace McGalaxy {
         public override string MCGalaxy_Version { get { return "1.9.3.0"; } }
         public override string name { get { return "Welcome"; } }
 
-    protected override void HookEventHandlers() {
+    public override void HookEventHandlers() {
         	OnPlayerConnectEvent.Register(HandlePlayerConnect, Priority.High);
             OnJoinedLevelEvent.Register(HandleJoinedLevel, Priority.High);
         	base.HookEventHandlers();
         }
 
-    protected override void HookEventHandlers() {
+    public override void HookEventHandlers() {
         	OnPlayerConnectEvent.Unregister(HandlePlayerConnect, Priority.High);
             OnJoinedLevelEvent.Unregister(HandleJoinedLevel, Priority.High);
         	base.UnhookEventHandlers();
