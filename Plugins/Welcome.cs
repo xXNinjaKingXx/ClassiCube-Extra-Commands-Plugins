@@ -10,12 +10,16 @@ namespace Core {
         public override string MCGalaxy_Version { get { return "1.9.3.0"; } }
         public override string name { get { return "Welcome"; } }
         
+        public static bool AutoWelcome = true;
+
 public override void Load(bool startup) {
-            Command.Register(new CmdSomething());
+        	if (AutoWelcome) OnPlayerConnectEvent.Register(HandlePlayerConnect, Priority.High);
+        	else Command.Register(new CmdWelcome());
         }
-        
+
         public override void Unload(bool shutdown) {
-        	Command.Unregister(Command.Find("Something"));
+        	if (AutoWelcome) OnPlayerConnectEvent.Unregister(HandlePlayerConnect);
+        	else Command.Unregister(Command.Find("Welcome"));
         }
     }
     
