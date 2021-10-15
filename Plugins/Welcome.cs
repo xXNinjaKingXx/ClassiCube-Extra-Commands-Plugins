@@ -3,8 +3,9 @@ using System.Threading;
 
 using MCGalaxy;
 using MCGalaxy.Tasks;
+using McGalaxy.Events.PlayerEvents;
 
-namespace Core {
+namespace McGalaxy {
     public class Welcome : Plugin {  
         public override string creator { get { return "Nin"; } }
         public override string MCGalaxy_Version { get { return "1.9.3.0"; } }
