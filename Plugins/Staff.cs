@@ -1,3 +1,5 @@
+//Notice: This Command was made by Panda.
+
 //reference MCGalaxy_.dll
 //reference System.dll
 
