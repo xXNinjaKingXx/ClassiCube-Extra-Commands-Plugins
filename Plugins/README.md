@@ -4,8 +4,6 @@
 ### **Please know that no one has the right to claim my work as there own.**
 
 **You can click on the Name to go to the source file.**
-
-#### Plugins with a `*` next to them are private or custom made for `Epic Legends`.
 ___________________________________________________________________________
 # list
 
@@ -13,6 +11,8 @@ ___________________________________________________________________________
 | ------------- | -----|
 |  **[Staff](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Plugins/Staff.cs)** | Shows list of current staff members on a server.
 |  **Welcome*** | Announces a welcome message on player join.
+___________________________________________________________________________
+#### Plugins with a `*` next to them are private or custom made for `Epic Legends`.
 ___________________________________________________________________________
 
 # Installation
