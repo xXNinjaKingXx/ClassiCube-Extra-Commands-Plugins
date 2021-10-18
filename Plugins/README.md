@@ -5,7 +5,7 @@
 
 **You can click on the Name to go to the source file.**
 
-**Plugins with a "*" next to them are private or custom made.**
+**Plugins with a `*` next to them are private or custom made.**
 ___________________________________________________________________________
 # list
 
