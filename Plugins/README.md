@@ -5,7 +5,7 @@
 
 **You can click on the Name to go to the source file.**
 
-## Plugins with a `*` next to them are private or custom made for `@Epic Legends`.
+## Plugins with a `*` next to them are private or custom made for `Epic Legends`.
 ___________________________________________________________________________
 # list
 
