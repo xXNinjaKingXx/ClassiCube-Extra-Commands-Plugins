@@ -10,9 +10,8 @@
 | Name | Description |
 | ------------- | -----|
 |  **[CmdDiscord](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdDiscord.cs)** | Shows the discord invite link.
-|  **[CmdS1](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdS1.cs)** | Makes your ping significantly lower.
-|  **[CmdSecret](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdSecret.cs)** | sends a message when someone tries to repeat Cmdreward.
-|  **[CmdStaff](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdStaff.cs)** | Shows Current list of staff.
+|  **[CmdSecret](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdSecret.cs)** | sends a message when someone tries to repeat a command that they shouldn't repeat.
+| **CmdShortNick*** | its /nick but the nickname has to be part of your username.
 ___________________________________________________________________________
 
 # Installation
