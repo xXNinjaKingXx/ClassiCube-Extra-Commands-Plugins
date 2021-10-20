@@ -13,6 +13,8 @@
 |  **[CmdSecret](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Commands/CmdSecret.cs)** | sends a message when someone tries to repeat a command that they shouldn't repeat.
 | **CmdShortNick*** | its /nick but the nickname has to be part of your username.
 ___________________________________________________________________________
+#### Commands with a `*` next to them are private or custom made for `Epic Legends`.
+___________________________________________________________________________
 
 # Installation
 
