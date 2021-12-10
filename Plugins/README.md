@@ -10,7 +10,6 @@ ___________________________________________________________________________
 | Name | Description |
 | ------------- | -----|
 |  **[Staff](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins/blob/main/Plugins/Staff.cs)** | Shows list of current staff members on a server.
-|  **Welcome*** | Announces a welcome message on player join.
 ___________________________________________________________________________
 #### Plugins with a `*` next to them are private or custom made for `Epic Legends`.
 ___________________________________________________________________________
